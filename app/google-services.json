@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "154210411444",
+    "project_id": "project-shild-46277",
+    "storage_bucket": "project-shild-46277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154210411444:android:94fa1b359cf2b01cd988e1",
+        "android_client_info": {
+          "package_name": "com.microgrezm.childvaccinatio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154210411444-saplakdj6dutp2jitqo25b42qj7kro3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.microgrezm.childvaccinatio",
+            "certificate_hash": "824614c8b84101233e612bb145065ba8b56bf07a"
+          }
+        },
+        {
+          "client_id": "154210411444-4nuqhaejgpc63jitphd4c3259sdkhqsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2lYk5soguN_KH-PuirURnO7Ho4ilfGms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154210411444-4nuqhaejgpc63jitphd4c3259sdkhqsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
